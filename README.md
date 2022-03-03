@@ -83,7 +83,7 @@ Any other number is an invalid student number - output 'invalid'.
 
 **Sample Output 1**
 ```
-grade 10 or 11
+Grade 10 or 11
 ```
 
 **Sample Input 2**
