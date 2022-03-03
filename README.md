@@ -51,7 +51,7 @@ p012345@pdsb.net
 not a valid staff email
 ```
 
-**Sample Input 3***
+**Sample Input 3**
 
 ```
 p0123456@pdsb.net
