@@ -26,7 +26,7 @@ not valid date
 ```
 
 ---
-Create a file called **email.py** and upload it to this repository. In that file write a program that takes in an email address and checks to see if it is a valid pdsb staff email. PDSB staff emails are either in the form p0######@pdsb.net or p00######@pdsb.net where # represents a single digit number. If it is a valid saff email, output 'valid staff email'. If it is not a valid staff email, output 'not a valid staff email'.
+Create a file called **email.py** and upload it to this repository. In that file write a program that takes in an email address and checks to see if it is a valid pdsb staff email. PDSB staff emails are either in the form p0######@pdsb.net or p00######@pdsb.net where ###### represents a 6 digit employee number. The employee number cannot start with 0. If it is a valid saff email, output 'valid staff email'. If it is not a valid staff email, output 'not a valid staff email'.
 
 
 **Sample Input 1**
